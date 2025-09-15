@@ -1,0 +1,1 @@
+I have create a new app 'Boutique App' where I added some standard objects such as Contact, Acciunt, Order etc and also some custom objects such as Appontment, Alterations & Custom Order, Style Preferences, Supplier. I added fields in those custom objects such as Alteration type, Delivery date etc to make the objects functional. I created the Tabs for the custom objects.
